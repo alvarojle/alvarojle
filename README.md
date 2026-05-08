@@ -27,10 +27,10 @@ En mi flujo de trabajo, la estrategia es clave: aplico el mismo nivel de precisi
   <table border="0">
     <tr>
       <td>
-        <img src="https://stats.leons-automatiza.xyz/api?username=alvarojle&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Estadísticas de Alvaro" width="400px" />
+        <img src="https://stats.leons-automatiza.xyz/api?username=alvarojle&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40&v=2" alt="Estadísticas de Alvaro" width="400px" />
       </td>
       <td>
-        <img src="https://stats.leons-automatiza.xyz/api/top-langs/?username=alvarojle&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40&count_private=true&hide=typescript,javascript,html,css" alt="Lenguajes de Alvaro" width="350px" />
+        <img src="https://stats.leons-automatiza.xyz/api/top-langs/?username=alvarojle&layout=compact&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40&count_private=true&hide=typescript,javascript,html,css&v=2" alt="Lenguajes de Alvaro" width="350px" />
       </td>
     </tr>
   </table>
